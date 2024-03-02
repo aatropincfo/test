@@ -1,0 +1,9 @@
+git init - создание git репозитория (.git)
+git status - проверка статуса
+git add - добаваление в staging
+git commit -m "initial commit" - сделать commit
+git log -  вывести логи
+
+
+Задача создать коммит "add main.py" который добавляет main.py
+
